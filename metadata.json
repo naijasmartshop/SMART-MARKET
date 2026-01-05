@@ -1,0 +1,5 @@
+{
+  "name": "Smart Market",
+  "description": "A real-time marketplace for buyers and sellers with role-based access and WhatsApp integration.",
+  "requestFramePermissions": []
+}
